@@ -10,3 +10,4 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [#4 - Ups n Downs](./solutions/01%20-%20Pilot%20Battle/04_ups-n-downs.md)
 - [#5 - Acid Rain](./solutions/01%20-%20Pilot%20Battle/05_acid-rain.md)
 - [#6 - Missing Slice](./solutions/01%20-%20Pilot%20Battle/06_missing-slice.md)
+- [#7 - Leafy Trail](./solutions/01%20-%20Pilot%20Battle/07_leafy-trail.md)
