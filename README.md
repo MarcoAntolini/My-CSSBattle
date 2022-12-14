@@ -8,3 +8,4 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [#2 - Carrom](./solutions/01%20-%20Pilot%20Battle/02_carrom.md)
 - [#3 - Push Button](./solutions/01%20-%20Pilot%20Battle/03_push-button.md)
 - [#4 - Ups n Downs](./solutions/01%20-%20Pilot%20Battle/04_ups-n-downs.md)
+- [#5 - Acid Rain](./solutions/01%20-%20Pilot%20Battle/05_acid-rain.md)
