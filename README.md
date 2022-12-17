@@ -19,5 +19,5 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 
 ## Battle #2 - Visibility
 
-- [#13 - Totally Triangle](./solutions/01%20-%20Pilot%20Battle/13_totally-triangle.md)
-- [#14 - Web Maker Logo](./solutions/01%20-%20Pilot%20Battle/14_web-maker-logo.md)
+- [#13 - Totally Triangle](./solutions/02%20-%20Visibility/13_totally-triangle.md)
+- [#14 - Web Maker Logo](./solutions/02%20-%20Visibility/14_web-maker-logo.md)
