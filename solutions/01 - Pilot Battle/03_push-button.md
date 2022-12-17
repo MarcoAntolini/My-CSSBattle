@@ -24,7 +24,8 @@
     height: 50px;
     background: #EEB850;
     border-radius: 50%;
-    box-shadow: 0 0 0 50px #243D83, 0 0 0 100px #6592CF;
+    border: 50px solid #243D83;
+    outline: 50px solid #6592CF;
   }
   .back {
     width: 300px;
