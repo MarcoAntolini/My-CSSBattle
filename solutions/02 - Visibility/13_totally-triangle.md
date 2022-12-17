@@ -1,4 +1,4 @@
-# Battle #1 - Pilot Battle
+# Battle #2 - Visibility
 
 ## #13 - Totally Triangle
 
