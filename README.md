@@ -16,4 +16,7 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [#10 - Cloaked Spirits](./solutions/01%20-%20Pilot%20Battle/10_cloaked-spirits.md)
 - [#11 - Eye of Sauron](./solutions/01%20-%20Pilot%20Battle/11_eye-of-sauron.md)
 - [#12 - Wiggly Moustache](./solutions/01%20-%20Pilot%20Battle/12_wiggly-moustache.md)
+
+## Battle #2 - Visibility
+
 - [#13 - Totally Triangle](./solutions/01%20-%20Pilot%20Battle/13_totally-triangle.md)
