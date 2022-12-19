@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/4)
 
-![result](./images/04_ups-n-downs.png)
+![result](./images/004_ups-n-downs.png)
 
 ```html
 <div class="wrapper">

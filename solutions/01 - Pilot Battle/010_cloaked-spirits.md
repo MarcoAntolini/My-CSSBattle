@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/10)
 
-![result](./images/10_cloaked-spirits.png)
+![result](./images/010_cloaked-spirits.png)
 
 ```html
 <div class="wrapper r">

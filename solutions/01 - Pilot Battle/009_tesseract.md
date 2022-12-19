@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/9)
 
-![result](./images/09_tesseract.png)
+![result](./images/009_tesseract.png)
 
 ```html
 <div class="rect"></div>

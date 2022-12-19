@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/8)
 
-![result](./images/08_forking-crazy.png)
+![result](./images/008_forking-crazy.png)
 
 ```html
 <div class="bot"></div>

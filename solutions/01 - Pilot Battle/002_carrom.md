@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/2)
 
-![result](./images/02_carrom.png)
+![result](./images/002_carrom.png)
 
 ```html
 <div class="top left"></div>

@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/6)
 
-![result](./images/06_missing-slice.png)
+![result](./images/006_missing-slice.png)
 
 ```html
 <div></div>

@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/13)
 
-![result](./images/13_totally-triangle.png)
+![result](./images/013_totally-triangle.png)
 
 ```html
 <div></div>

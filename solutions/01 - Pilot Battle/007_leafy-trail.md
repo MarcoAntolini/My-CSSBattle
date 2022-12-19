@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/7)
 
-![result](./images/07_leafy-trail.png)
+![result](./images/007_leafy-trail.png)
 
 ```html
 <div class="a"></div>

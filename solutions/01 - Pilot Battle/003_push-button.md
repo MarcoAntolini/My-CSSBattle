@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/3)
 
-![result](./images/03_push-button.png)
+![result](./images/003_push-button.png)
 
 ```html
 <div class="back"></div>

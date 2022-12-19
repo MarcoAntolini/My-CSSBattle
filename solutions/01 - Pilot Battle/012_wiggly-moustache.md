@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/12)
 
-![result](./images/12_wiggly-moustache.png)
+![result](./images/012_wiggly-moustache.png)
 
 ```html
 <div class="half left"></div>

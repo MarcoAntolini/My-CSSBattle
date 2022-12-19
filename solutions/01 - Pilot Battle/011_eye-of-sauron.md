@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/11)
 
-![result](./images/11_eye-of-sauron.png)
+![result](./images/011_eye-of-sauron.png)
 
 ```html
 <div class="circle"></div>
