@@ -29,3 +29,4 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 ## Battle #3 - Cursor
 
 - [#19 - Cube](./solutions/03%20-%20Cursor/019_cube.md)
+- [#20 - Ticket](./solutions/03%20-%20Cursor/020_ticket.md)
