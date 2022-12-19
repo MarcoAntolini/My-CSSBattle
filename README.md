@@ -22,3 +22,4 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [#13 - Totally Triangle](./solutions/02%20-%20Visibility/013_totally-triangle.md)
 - [#14 - Web Maker Logo](./solutions/02%20-%20Visibility/014_web-maker-logo.md)
 - [#15 - Overlap](./solutions/02%20-%20Visibility/015_overlap.md)
+- [#16 - Eye of the Tiger](./solutions/02%20-%20Visibility/016_eye-of-the-tiger.md)
