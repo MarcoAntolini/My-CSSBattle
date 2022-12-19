@@ -24,3 +24,4 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [#15 - Overlap](./solutions/02%20-%20Visibility/015_overlap.md)
 - [#16 - Eye of the Tiger](./solutions/02%20-%20Visibility/016_eye-of-the-tiger.md)
 - [#17 - Fidget Spinner](./solutions/02%20-%20Visibility/017_fidget-spinner.md)
+- [#18 - Matrix](./solutions/02%20-%20Visibility/018_matrix.md)
