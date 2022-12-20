@@ -37,3 +37,4 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [#22 - Cloud](./solutions/04%20-%20Display/022_cloud.md)
 - [#23 - Boxception](./solutions/04%20-%20Display/023_boxception.md)
 - [#24 - Switches](./solutions/04%20-%20Display/024_switches.md)
+- [#25 - Blossom](./solutions/04%20-%20Display/025_blossom.md)
