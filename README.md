@@ -41,3 +41,5 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [#26 - Smiley](./solutions/04%20-%20Display/026_smiley.md)
 - [#27 - Lock Up](./solutions/04%20-%20Display/027_lock-up.md)
 - [#28 - Cups & Balls](./solutions/04%20-%20Display/028_cups-and-balls.md)
+
+## Battle #5 - Inline
