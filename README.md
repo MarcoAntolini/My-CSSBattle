@@ -30,3 +30,7 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 
 - [#19 - Cube](./solutions/03%20-%20Cursor/019_cube.md)
 - [#20 - Ticket](./solutions/03%20-%20Cursor/020_ticket.md)
+
+## Battle #4 - Display
+
+- [#21 - SitePoint Logo](./solutions/04%20-%20Display/021_sitepoint-logo.md)

@@ -1,0 +1,64 @@
+# Battle #4 - Display
+
+## #21 - SitePoint Logo
+
+[Link to the problem](https://cssbattle.dev/play/21)
+
+![result](./images/021_sitepoint-logo.png)
+
+```html
+<div class="wrapper">
+  <div class="out">
+    <div class="in l"></div>
+    <div class="in s"></div>
+  </div>
+  <div class="out inverted">
+    <div class="in l"></div>
+    <div class="in s"></div>
+  </div>
+</div>
+<style>
+  body {
+    background: #222;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .wrapper {
+    transform: rotate(-45deg);
+    width: 120px;
+    height: 120px;
+  }
+  .out {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+  }
+  .out:not(.inverted) {
+    left: 18.7;
+    top: -5.8;
+  }
+  .inverted {
+    transform: rotate(180deg);
+    right: 19.4;
+    bottom: -4.6;
+  }
+  .out .in {
+    background: #2D9CDB;
+  }
+  .out:not(.inverted) .in {
+    background: #F2994A !important;
+  }
+  .l {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px 0 0 0;
+  }
+  .s {
+    width: 30px;
+    height: 51px;
+    border-radius: 0 0 5px 0;
+    margin: -1px 0;
+  }
+</style>
+```
