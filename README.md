@@ -43,3 +43,5 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [#28 - Cups & Balls](./solutions/04%20-%20Display/028_cups-and-balls.md)
 
 ## Battle #5 - Inline
+
+- [#29 - Suffocate](./solutions/05%20-%20Inline/029_suffocate.md)
