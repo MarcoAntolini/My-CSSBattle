@@ -34,3 +34,5 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 ## Battle #4 - Display
 
 - [#21 - SitePoint Logo](./solutions/04%20-%20Display/021_sitepoint-logo.md)
+- [#22 - Cloud](./solutions/04%20-%20Display/022_cloud.md)
+- [#23 - Boxception](./solutions/04%20-%20Display/023_boxception.md)

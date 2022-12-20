@@ -1,0 +1,43 @@
+# Battle #4 - Display
+
+## #22 - Cloud
+
+[Link to the problem](https://cssbattle.dev/play/22)
+
+![result](./images/022_cloud.png)
+
+```html
+<div class="a"></div>
+<div class="b"></div>
+<div class="c"></div>
+<style>
+  body {
+    background: #F5D6B4;
+  }
+  div {
+    background: #D86F45;
+    position: absolute;
+  }
+  .a {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    bottom: 85;
+    left: 100;
+  }
+  .b {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    top: 85;
+    right: 120;
+  }
+  .c {
+    width: 160px;
+    height: 50px;
+    border-radius: 25px;
+    bottom: 85;
+    left: 140;
+  }
+</style>
+```
