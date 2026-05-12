@@ -32,7 +32,6 @@ Challenge: <https://cssbattle.dev/play/2>
     width: 30px;
     height: 30px;
     background: #fdc57b;
-    margin: 50px 50px 100px
   }
 </style>
 ```
@@ -40,6 +39,6 @@ Challenge: <https://cssbattle.dev/play/2>
 ## Submission Data
 
 - Challenge: Target 2: Carrom
-- Score: 447.76
-- Match: 92.4%
-- Submitted at: 2026-05-12T14:18:17.911Z
+- Score: 417.8
+- Match: 90.9%
+- Submitted at: 2026-05-12T14:20:37.495Z
