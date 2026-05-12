@@ -30,7 +30,7 @@ Challenge: <https://cssbattle.dev/play/2>
     margin: 0
   }
   div {
-    width: 50px;
+    width: 40px;
     height: 50px;
     background: #fdc57b;
     margin: 50px 50px 100px
@@ -41,6 +41,6 @@ Challenge: <https://cssbattle.dev/play/2>
 ## Submission Data
 
 - Challenge: Target 2: Carrom
-- Score: 515.77
-- Match: 95.8%
-- Submitted at: 2026-05-12T13:24:20.838Z
+- Score: 499.77
+- Match: 95%
+- Submitted at: 2026-05-12T14:01:47.353Z
