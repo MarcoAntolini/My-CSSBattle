@@ -29,8 +29,8 @@ Challenge: <https://cssbattle.dev/play/2>
     background: #62374e;
   }
   div {
-    width: 20px;
-    height: 20px;
+    width: 10px;
+    height: 10px;
     background: #fdc57b;
   }
 </style>
@@ -39,6 +39,6 @@ Challenge: <https://cssbattle.dev/play/2>
 ## Submission Data
 
 - Challenge: Target 2: Carrom
-- Score: 425.81
-- Match: 91.3%
-- Submitted at: 2026-05-12T14:25:50.460Z
+- Score: 431.81
+- Match: 91.6%
+- Submitted at: 2026-05-12T14:27:04.182Z
