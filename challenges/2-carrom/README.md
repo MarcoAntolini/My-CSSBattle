@@ -11,7 +11,7 @@ Challenge: <https://cssbattle.dev/play/2>
 	</tr>
 	<tr>
 		<td width="50%" align="center">
-			<img src="./user.png" alt="User Submission" width="100%">
+			Not available
 		</td>
 		<td width="50%" align="center">
 			<img src="./target.png" alt="Target" width="100%">
@@ -23,7 +23,6 @@ Challenge: <https://cssbattle.dev/play/2>
 
 ```html
 <div></div>
-<div></div>
 <style>
   body {
     background: #62374e;
@@ -31,7 +30,7 @@ Challenge: <https://cssbattle.dev/play/2>
   }
   div {
     width: 40px;
-    height: 50px;
+    height: 40px;
     background: #fdc57b;
     margin: 50px 50px 100px
   }
@@ -41,6 +40,6 @@ Challenge: <https://cssbattle.dev/play/2>
 ## Submission Data
 
 - Challenge: Target 2: Carrom
-- Score: 499.77
-- Match: 95%
-- Submitted at: 2026-05-12T14:01:47.353Z
+- Score: 459.77
+- Match: 93%
+- Submitted at: 2026-05-12T14:10:36.684Z
