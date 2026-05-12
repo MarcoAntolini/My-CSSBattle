@@ -23,15 +23,17 @@ Challenge: <https://cssbattle.dev/play/2>
 
 ```html
 <div></div>
+<div></div>
 <style>
   body {
     margin: 0;
     background: #62374e;
   }
   div {
-    width: 10px;
-    height: 10px;
+    width: 50px;
+    height: 50px;
     background: #fdc57b;
+    margin: 50px 50px 100px;
   }
 </style>
 ```
@@ -39,6 +41,6 @@ Challenge: <https://cssbattle.dev/play/2>
 ## Submission Data
 
 - Challenge: Target 2: Carrom
-- Score: 431.81
-- Match: 91.6%
-- Submitted at: 2026-05-12T14:27:04.182Z
+- Score: 515.77
+- Match: 95.8%
+- Submitted at: 2026-05-12T14:30:19.949Z
