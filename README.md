@@ -52,5 +52,6 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [Target 1: Simply Square](./challenges/1-simply-square/)
 - [Target 2](./challenges/2/)
 - [Target 2: Carrom](./challenges/2-carrom/)
-- [Target 4: Ups n Downs](./challenges/4/)
+- [Target 4](./challenges/4/)
+- [Target 5: Acid Rain](./challenges/5/)
 <!-- CSSHUB:README-END -->
