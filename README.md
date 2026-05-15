@@ -45,3 +45,12 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 ## Battle #5 - Inline
 
 - [#29 - Suffocate](./solutions/05%20-%20Inline/029_suffocate.md)
+
+<!-- CSSHUB:README-START -->
+## CssHub challenge index
+
+- [Target 1: Simply Square](./challenges/1-simply-square/)
+- [Target 2](./challenges/2/)
+- [Target 2: Carrom](./challenges/2-carrom/)
+- [Target 4: Ups n Downs](./challenges/4/)
+<!-- CSSHUB:README-END -->
