@@ -54,5 +54,6 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [Target 2: Carrom](./challenges/2-carrom/)
 - [Target 4](./challenges/4/)
 - [Target 5](./challenges/5/)
-- [Target 6: Missing Slice](./challenges/6/)
+- [Target 6](./challenges/6/)
+- [Target 8: Forking Crazy](./challenges/8/)
 <!-- CSSHUB:README-END -->
