@@ -55,5 +55,6 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [Target 4](./challenges/4/)
 - [Target 5](./challenges/5/)
 - [Target 6](./challenges/6/)
-- [Target 8: Forking Crazy](./challenges/8/)
+- [Target 8](./challenges/8/)
+- [Target 11: Eye of Sauron](./challenges/11/)
 <!-- CSSHUB:README-END -->
