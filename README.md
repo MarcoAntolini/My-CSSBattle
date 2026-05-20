@@ -57,4 +57,5 @@ Here are my solutions for some problems on [CSS Battle](https://www.cssbattle.de
 - [Target 6](./challenges/6/)
 - [Target 8](./challenges/8/)
 - [Target 11: Eye of Sauron](./challenges/11/)
+- [Target 12: Wiggly Moustache](./challenges/12/)
 <!-- CSSHUB:README-END -->
