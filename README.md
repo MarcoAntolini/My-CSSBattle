@@ -37,9 +37,4 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 </li>
 </ul>
 
-### Legacy (1)
-
-<ul>
-<li><a href="./challenges/unknown-target-unknown/">Target-unknown</a></li>
-</ul>
 <!-- CSSHUB:README-END -->
