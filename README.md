@@ -6,6 +6,12 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 ## CssHub challenge index
 
 <details>
+<summary>Battles (1)</summary>
+
+- [#1. Simply Square](./Battles/Battle%20%231/%231.%20Simply%20Square/)
+
+</details>
+<details>
 <summary>Daily Targets (1)</summary>
 
 - [Jun 4, 2026](./Daily%20Targets/2026-06-04/)
