@@ -5,4 +5,5 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
+- [Target-unknown](./challenges/unknown-target-unknown/)
 <!-- CSSHUB:README-END -->
