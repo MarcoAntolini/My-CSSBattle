@@ -5,29 +5,38 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
+### Battles (4)
+
+<ul>
+<li>
 <details>
-<summary><h4><strong>Battles (3)</strong></h4></summary>
+<summary><strong>Battle #1 (4)</strong></summary>
 
+<ul>
+<li><a href="./Battles/Battle%20%231/%231.%20Simply%20Square/">#1. Simply Square</a></li>
+<li><a href="./Battles/Battle%20%231/%232.%20Carrom/">#2. Carrom</a></li>
+<li><a href="./Battles/Battle%20%231/%233.%20Push%20Button/">#3. Push Button</a></li>
+<li><a href="./Battles/Battle%20%231/%234.%20Ups%20n%20Downs/">#4. Ups n Downs</a></li>
+</ul>
+</details>
+</li>
+</ul>
+### Daily Targets (1)
+
+<ul>
+<li>
 <details>
-<summary><strong>Battle #1 (3)</strong></summary>
+<summary><strong>June 2026 (1)</strong></summary>
 
-- [#1. Simply Square](./Battles/Battle%20%231/%231.%20Simply%20Square/)
-- [#2. Carrom](./Battles/Battle%20%231/%232.%20Carrom/)
-- [#3. Push Button](./Battles/Battle%20%231/%233.%20Push%20Button/)
-
+<ul>
+<li><a href="./Daily%20Targets/2026-06-04/">Jun 4, 2026</a></li>
+</ul>
 </details>
+</li>
+</ul>
+### Legacy (1)
 
-</details>
-<details>
-<summary><h4><strong>Daily Targets (1)</strong></h4></summary>
-
-- [Jun 4, 2026](./Daily%20Targets/2026-06-04/)
-
-</details>
-<details>
-<summary><h4><strong>Legacy (1)</strong></h4></summary>
-
-- [Target-unknown](./challenges/unknown-target-unknown/)
-
-</details>
+<ul>
+<li><a href="./challenges/unknown-target-unknown/">Target-unknown</a></li>
+</ul>
 <!-- CSSHUB:README-END -->
