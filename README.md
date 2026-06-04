@@ -36,5 +36,4 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 </details>
 </li>
 </ul>
-
 <!-- CSSHUB:README-END -->
