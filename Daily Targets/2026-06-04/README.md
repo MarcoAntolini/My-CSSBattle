@@ -11,7 +11,7 @@ Challenge: <https://cssbattle.dev/play/d88s7WXm7RoYXGfDKQ4P>
 	</tr>
 	<tr>
 		<td width="50%" align="center">
-			Not available
+      <img src="./user.png" alt="User Submission" width="100%">
 		</td>
 		<td width="50%" align="center">
 			<img src="./target.png" alt="Target" width="100%">
