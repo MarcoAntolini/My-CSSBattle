@@ -5,7 +5,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (10)
+### Battles (11)
 
 <ul>
 <li>
@@ -23,6 +23,15 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <li><a href="./Battles/Battle%20%231/%235.%20Acid%20Rain/">#5. Acid Rain</a></li>
 <li><a href="./Battles/Battle%20%231/%238.%20Forking%20Crazy/">#8. Forking Crazy</a></li>
 <li><a href="./Battles/Battle%20%231/%239.%20Tesseract/">#9. Tesseract</a></li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #2 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%232/%2313.%20Totally%20Triangle/">#13. Totally Triangle</a></li>
 </ul>
 </details>
 </li>
