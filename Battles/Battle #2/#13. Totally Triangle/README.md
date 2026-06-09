@@ -11,7 +11,7 @@ Challenge: <https://cssbattle.dev/play/13>
 	</tr>
 	<tr>
 		<td width="50%" align="center">
-			Not available
+			<img src="./user.png" alt="User Submission" width="100%">
 		</td>
 		<td width="50%" align="center">
 			<img src="./target.png" alt="Target" width="100%">
@@ -22,12 +22,18 @@ Challenge: <https://cssbattle.dev/play/13>
 ## Code
 
 ```html
-<div></div>
 <style>
   & {
     width: 100px;
     height: 100px;
     background: #0B2429;
+    margin: -100;
+    * {
+      background: #F3AC3C;
+      rotate: 45deg;
+      height: 450px;
+      width: 100px;
+    }
   }
 </style>
 ```
