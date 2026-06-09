@@ -5,7 +5,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (11)
+### Battles (12)
 
 <ul>
 <li>
@@ -28,10 +28,11 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 </li>
 <li>
 <details>
-<summary><strong>Battle #2 (1)</strong></summary>
+<summary><strong>Battle #2 (2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%232/%2313.%20Totally%20Triangle/">#13. Totally Triangle</a></li>
+<li><a href="./Battles/Battle%20%232/%2314.%20Web%20Maker%20Logo/">#14. Web Maker Logo</a></li>
 </ul>
 </details>
 </li>
