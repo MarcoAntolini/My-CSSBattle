@@ -5,7 +5,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (15)
+### Battles (16)
 
 <ul>
 <li>
@@ -36,6 +36,15 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <li><a href="./Battles/Battle%20%232/%2315.%20Overlap/">#15. Overlap</a></li>
 <li><a href="./Battles/Battle%20%232/%2316.%20Eye%20of%20the%20Tiger/">#16. Eye of the Tiger</a></li>
 <li><a href="./Battles/Battle%20%232/%2317.%20Fidget%20Spinner/">#17. Fidget Spinner</a></li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #3 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%233/%2319.%20Cube/">#19. Cube</a></li>
 </ul>
 </details>
 </li>
