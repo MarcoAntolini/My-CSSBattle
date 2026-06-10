@@ -5,7 +5,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (21)
+### Battles (22)
 
 <ul>
 <li>
@@ -50,7 +50,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 </li>
 <li>
 <details>
-<summary><strong>Battle #4 (5)</strong></summary>
+<summary><strong>Battle #4 (6)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%234/%2321.%20SitePoint%20Logo/">#21. SitePoint Logo</a></li>
@@ -58,6 +58,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <li><a href="./Battles/Battle%20%234/%2323.%20Boxception/">#23. Boxception</a></li>
 <li><a href="./Battles/Battle%20%234/%2324.%20Switches/">#24. Switches</a></li>
 <li><a href="./Battles/Battle%20%234/%2325.%20Blossom/">#25. Blossom</a></li>
+<li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a></li>
 </ul>
 </details>
 </li>
