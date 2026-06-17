@@ -11,7 +11,7 @@ Challenge: <https://cssbattle.dev/play/4>
 	</tr>
 	<tr>
 		<td width="50%" align="center">
-			Not available
+			<img src="./user.png" alt="User Submission" width="100%">
 		</td>
 		<td width="50%" align="center">
 			<img src="./target.png" alt="Target" width="100%">
@@ -29,26 +29,19 @@ Challenge: <https://cssbattle.dev/play/4>
 <div></div>
 <div class="show"></div>
 <style>
-  body {
+  body{
     background: #62306D;
     margin: 50px;
     display: grid;
     grid-template-columns: repeat(3, 100px);
     grid-template-rows: repeat(2, 100px);
   }
-  .show {
+  .show{
     background: #F7EC7D;
     border-radius: 0 0 50% 50%;
   }
-  .up {
+  .up{
     border-radius: 50% 50% 0 0;
   }
 </style>
 ```
-
-## Submission Data
-
-- Challenge: #4. Ups n Downs
-- Score: 608.27
-- Match: 100%
-- Submitted at: 2026-06-04T19:05:27.140Z
