@@ -25,16 +25,16 @@ Challenge: <https://cssbattle.dev/play/3>
 <div class="back"></div>
 <div class="front"></div>
 <style>
-  body {
+  body{
     background: #6592CF;
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  div {
+  div{
     position: absolute;
   }
-  .front {
+  .front{
     width: 50px;
     height: 50px;
     background: #EEB850;
@@ -42,17 +42,10 @@ Challenge: <https://cssbattle.dev/play/3>
     border: 50px solid #243D83;
     outline: 50px solid #6592CF;
   }
-  .back {
+  .back{
     width: 300px;
     height: 150px;
     background: #243D83;
   }
 </style>
 ```
-
-## Submission Data
-
-- Challenge: #3. Push Button
-- Score: 605.28
-- Match: 100%
-- Submitted at: 2026-06-04T17:49:01.373Z
