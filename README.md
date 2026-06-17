@@ -60,7 +60,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <li><a href="./Battles/Battle%20%234/%2325.%20Blossom/">#25. Blossom</a></li>
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a></li>
 <li><a href="./Battles/Battle%20%234/%2327.%20Lock%20Up/">#27. Lock Up</a></li>
-<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp; Balls</a></li>
+<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp; Balls</a></li>
 </ul>
 </details>
 </li>
