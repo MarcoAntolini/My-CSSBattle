@@ -13,7 +13,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <summary><strong>Battle #1 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%231/%236.%20Missing%20Slice/">#6. Missing Slice</a> (234 Characters)</li>
+<li><a href="./Battles/Battle%20%231/%236.%20Missing%20Slice/">#6. Missing Slice</a> (212 Characters)</li>
 </ul>
 </details>
 </li>

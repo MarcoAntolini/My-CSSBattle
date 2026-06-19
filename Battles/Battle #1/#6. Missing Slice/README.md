@@ -1,6 +1,6 @@
 # #6. Missing Slice
 
-Challenge: <https://cssbattle.dev/play/6>
+Challenge: <https://cssbattle.dev/play/6#>
 
 ## Result
 
@@ -22,17 +22,19 @@ Challenge: <https://cssbattle.dev/play/6>
 ## Code
 
 ```html
-<div></div>
 <style>
-  body{
-    background: #E3516E;
-    margin: 50px 100px;
-  }
-  div{
-    border: 100px solid;
+& {
+  background: #e3516e;
+  margin: 42 92;
+  * {
     border-radius: 50%;
-    border-color: #FADE8B transparent #F7F3D7 #51B5A9;
-    transform: rotate(45deg);
+    background: conic-gradient(
+      #fade8b 25%,
+      #e3516e 0 50%,
+      #f7f3d7 0 75%,
+      #51b5a9 0
+    );
   }
+}
 </style>
 ```
