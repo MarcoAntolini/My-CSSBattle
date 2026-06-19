@@ -5,15 +5,18 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (1)
+### Battles (2)
+
+_+ means this battle may receive more targets._
 
 <ul>
 <li>
 <details>
-<summary><strong>Battle #1 (1)</strong></summary>
+<summary><strong>Battle #1 (2/12+)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%231/%236.%20Missing%20Slice/">#6. Missing Slice</a> (212 Characters)</li>
+<li><a href="./Battles/Battle%20%231/%233.%20Push%20Button/">#3. Push Button</a> (236 Characters)</li>
+<li><a href="./Battles/Battle%20%231/%236.%20Missing%20Slice/">#6. Missing Slice</a></li>
 </ul>
 </details>
 </li>
