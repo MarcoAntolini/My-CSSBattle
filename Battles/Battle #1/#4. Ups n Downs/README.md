@@ -22,16 +22,13 @@ Challenge: <https://cssbattle.dev/play/4>
 ## Code
 
 ```html
-<p><p s u><p><p s><p><p s>
+<div></div><div s u></div><div></div><div s></div><div></div><div s></div>
 <style>
 body {
   background: #62306d;
-  margin: 35 50;
+  margin: 50px;
   display: grid;
   grid: repeat(2, 100px) / repeat(3, 100px);
-}
-p {
-  height: 100;
 }
 [s] {
   background: #f7ec7d;
