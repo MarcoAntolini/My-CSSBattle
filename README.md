@@ -5,14 +5,12 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (7)
-
-_+ means this battle may receive more targets._
+### Battles (8)
 
 <ul>
 <li>
 <details>
-<summary><strong>Battle #1 (6/12+)</strong></summary>
+<summary><strong>Battle #1 (7/12)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%231/%233.%20Push%20Button/">#3. Push Button</a> (236 Characters)</li>
@@ -21,6 +19,7 @@ _+ means this battle may receive more targets._
 <li><a href="./Battles/Battle%20%231/%236.%20Missing%20Slice/">#6. Missing Slice</a> (136 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%237.%20Leafy%20Trail/">#7. Leafy Trail</a> (144 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%238.%20Forking%20Crazy/">#8. Forking Crazy</a> (371 Characters)</li>
+<li><a href="./Battles/Battle%20%231/%239.%20Tesseract/">#9. Tesseract</a> (283 Characters)</li>
 </ul>
 </details>
 </li>
