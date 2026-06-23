@@ -5,7 +5,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (5)
+### Battles (6)
 
 _+ means this battle may receive more targets._
 
@@ -20,6 +20,15 @@ _+ means this battle may receive more targets._
 <li><a href="./Battles/Battle%20%231/%235.%20Acid%20Rain/">#5. Acid Rain</a> (330 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%236.%20Missing%20Slice/">#6. Missing Slice</a> (136 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%237.%20Leafy%20Trail/">#7. Leafy Trail</a> (144 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #2 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%232/%2313.%20Totally%20Triangle/">#13. Totally Triangle</a> (94 Characters)</li>
 </ul>
 </details>
 </li>
