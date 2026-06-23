@@ -6,12 +6,12 @@
   "battleId": "1",
   "battleGroup": "Battle #1",
   "challengeLabel": "#4. Ups n Downs",
-  "battleTotalChallenges": 12,
-  "battleStatus": "unfinished",
+  "battleTotalChallenges": null,
+  "battleStatus": null,
   "dailyDateIso": null,
   "dailyDateLabel": null,
-  "submittedAt": "2026-06-19T17:37:17.985Z",
-  "score": 622.92,
+  "submittedAt": "2026-06-23T14:12:48.389Z",
+  "score": 639.84,
   "matchPct": 100,
-  "characterCount": 300
+  "characterCount": 242
 }

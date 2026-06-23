@@ -16,7 +16,7 @@ _+ means this battle may receive more targets._
 
 <ul>
 <li><a href="./Battles/Battle%20%231/%233.%20Push%20Button/">#3. Push Button</a> (236 Characters)</li>
-<li><a href="./Battles/Battle%20%231/%234.%20Ups%20n%20Downs/">#4. Ups n Downs</a> (300 Characters)</li>
+<li><a href="./Battles/Battle%20%231/%234.%20Ups%20n%20Downs/">#4. Ups n Downs</a> (242 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%236.%20Missing%20Slice/">#6. Missing Slice</a></li>
 </ul>
 </details>

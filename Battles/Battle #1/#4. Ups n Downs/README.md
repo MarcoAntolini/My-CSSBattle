@@ -22,20 +22,5 @@ Challenge: <https://cssbattle.dev/play/4>
 ## Code
 
 ```html
-<div></div><div s u></div><div></div><div s></div><div></div><div s></div>
-<style>
-body {
-  background: #62306d;
-  margin: 50px;
-  display: grid;
-  grid: repeat(2, 100px) / repeat(3, 100px);
-}
-[s] {
-  background: #f7ec7d;
-  border-radius: 0 0 50% 50%;
-}
-[u] {
-  border-radius: 50% 50% 0 0;
-}
-</style>
+<div></div><div s u></div><div></div><div s></div><div></div><div s></div><style>body{background:#62306d;margin:50px;display:grid;grid:repeat(2,100px)/repeat(3,100px)}[s]{background:#f7ec7d;border-radius:0 0 50%50%}[u]{border-radius:50%50%0 0
 ```
