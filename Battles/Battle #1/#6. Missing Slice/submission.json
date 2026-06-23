@@ -2,7 +2,7 @@
   "challengeMode": "battle",
   "challengeId": "6",
   "challengeName": "#6. Missing Slice",
-  "challengeUrl": "https://cssbattle.dev/play/6#",
+  "challengeUrl": "https://cssbattle.dev/play/6",
   "battleId": "1",
   "battleGroup": "Battle #1",
   "challengeLabel": "#6. Missing Slice",
@@ -10,8 +10,8 @@
   "battleStatus": null,
   "dailyDateIso": null,
   "dailyDateLabel": null,
-  "submittedAt": "2026-06-19T14:39:48.374Z",
-  "score": 653.03,
+  "submittedAt": "2026-06-23T15:18:35.392Z",
+  "score": 709.43,
   "matchPct": 100,
-  "characterCount": 212
+  "characterCount": 136
 }
