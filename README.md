@@ -5,7 +5,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (9)
+### Battles (10)
 
 <ul>
 <li>
@@ -34,10 +34,11 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 </li>
 <li>
 <details>
-<summary><strong>Battle #3 (1/2)</strong></summary>
+<summary><strong>Battle #3 (2/2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%233/%2319.%20Cube/">#19. Cube</a> (553 Characters)</li>
+<li><a href="./Battles/Battle%20%233/%2320.%20Ticket/">#20. Ticket</a> (1102 Characters)</li>
 </ul>
 </details>
 </li>
