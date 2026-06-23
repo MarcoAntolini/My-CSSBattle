@@ -5,7 +5,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (13)
+### Battles (14)
 
 <ul>
 <li>
@@ -25,13 +25,14 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 </li>
 <li>
 <details>
-<summary><strong>Battle #2 (4/6)</strong></summary>
+<summary><strong>Battle #2 (5/6)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%232/%2313.%20Totally%20Triangle/">#13. Totally Triangle</a> (94 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2314.%20Web%20Maker%20Logo/">#14. Web Maker Logo</a> (526 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2315.%20Overlap/">#15. Overlap</a> (514 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2316.%20Eye%20of%20the%20Tiger/">#16. Eye of the Tiger</a> (496 Characters)</li>
+<li><a href="./Battles/Battle%20%232/%2317.%20Fidget%20Spinner/">#17. Fidget Spinner</a> (546 Characters)</li>
 </ul>
 </details>
 </li>
