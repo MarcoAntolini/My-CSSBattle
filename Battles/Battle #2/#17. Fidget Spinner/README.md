@@ -22,37 +22,37 @@ Challenge: <https://cssbattle.dev/play/17>
 ## Code
 
 ```html
-<div class="mid"></div>
-<div class="circle small n"></div>
-<div class="circle small s"></div>
-<div class="circle small o"></div>
-<div class="circle small w"></div>
+<div class="mid"></div><div class="circle small n"></div><div class="circle small s"></div><div class="circle small o"></div><div class="circle small w"></div>
 <style>
-  body {
-    background: #09042A;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  div {
-    position: absolute;
-  }
-  .circle {
-    border-radius: 50%;
-  }
-  .small {
-    width: 60px;
-    height: 60px;
-  }
-  .n, .s {
-    background: #F5BB9C;
-    border: 10px solid #09042A;
-  }
-  .n {
-    top: 57px;
-  }
-  .s {
-    bottom: 57px;
-  }
-  .o, .w {
+body {
+  background: #09042a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+div {
+  position: absolute;
+}
+.circle {
+  border-radius: 50%;
+}
+.small {
+  width: 60px;
+  height: 60px;
+}
+.n,
+.s {
+  background: #f5bb9c;
+  border: 10px solid #09042a;
+}
+.n {
+  top: 57px;
+}
+.s {
+  bottom: 57px;
+}
+.o,
+.w {
+  background: #09042a;
+  border: 10px solid #e78481;
 ```
