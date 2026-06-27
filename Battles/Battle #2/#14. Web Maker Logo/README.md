@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/14>
 ## Code
 
 ```html
-<div class="a inverted"></div><div class="b inverted"></div><div class="b"></div><div class="a"></div><style>body{background:#f2f2b6;margin:0;display:flex;align-items:center;justify-content:center}div{border-right:75px solid#0000;border-left:75px solid#0000}.a{border-bottom:calc(75px * .866 * 2)solid#fd4602;margin:0-160px}.b{border-bottom:calc(75px * .866 * 2)solid#ff6d00;margin:0-10px}.inverted{transform:rotatez(0.5turn
+<p class="a inverted"></p><p class="b inverted"></p><p class="b"></p><p class="a"></p><style>body{background:#f2f2b6;margin:0;display:flex;align-items:center;justify-content:center}p{border-right:75px solid#0000;border-left:75px solid#0000}.a{border-bottom:calc(75px * .866 * 2)solid#fd4602;margin:0-160px}.b{border-bottom:calc(75px * .866 * 2)solid#ff6d00;margin:0-10px}.inverted{transform:rotatez(0.5turn
 ```
