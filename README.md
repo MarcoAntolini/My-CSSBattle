@@ -29,7 +29,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 
 <ul>
 <li><a href="./Battles/Battle%20%232/%2313.%20Totally%20Triangle/">#13. Totally Triangle</a> (94 Characters)</li>
-<li><a href="./Battles/Battle%20%232/%2314.%20Web%20Maker%20Logo/">#14. Web Maker Logo</a> (526 Characters)</li>
+<li><a href="./Battles/Battle%20%232/%2314.%20Web%20Maker%20Logo/">#14. Web Maker Logo</a> (424 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2315.%20Overlap/">#15. Overlap</a> (514 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2316.%20Eye%20of%20the%20Tiger/">#16. Eye of the Tiger</a> (496 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2317.%20Fidget%20Spinner/">#17. Fidget Spinner</a> (525 Characters)</li>
@@ -53,7 +53,7 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <ul>
 <li>
 <details>
-<summary><strong>June 2026 (3/26+)</strong></summary>
+<summary><strong>June 2026 (3/28+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-06-04/">Jun 4, 2026</a></li>
