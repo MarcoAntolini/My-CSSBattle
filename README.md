@@ -5,15 +5,16 @@ Here are the challenges I have completed from [CSS Battle](https://cssbattle.dev
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (16)
+### Battles (17)
 
 <ul>
 <li>
 <details>
-<summary><strong>Battle #1 (8/12)</strong></summary>
+<summary><strong>Battle #1 (9/12)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%231/%231.%20Simply%20Square/">#1. Simply Square</a> (98 Characters)</li>
+<li><a href="./Battles/Battle%20%231/%232.%20Carrom/">#2. Carrom</a> (204 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%233.%20Push%20Button/">#3. Push Button</a> (236 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%234.%20Ups%20n%20Downs/">#4. Ups n Downs</a> (242 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%235.%20Acid%20Rain/">#5. Acid Rain</a> (330 Characters)</li>
